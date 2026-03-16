@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Irem%20Akcan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Projects&descAlignY=65&descAlign=50"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:667eea,100:764ba2&text=Irem%20Akcan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+</p>
 
-# Irem Akcan
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=520&lines=M.Sc.+Data+Science;Software+Project+Manager;Agile+Coach"/>
+</p>
 
 Data and technology specialist with 4+ years of experience delivering IT and data-driven projects in Agile environments and leading cross-functional teams
 
@@ -22,13 +26,14 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoCo)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 
 ### Agile Methodologies
 
@@ -61,23 +66,15 @@ Visual analytics exploring relationships between inequality and maternal health 
 
 ---
 
-## Currently Exploring
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Probabilistic Modeling
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakcan&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iakcan&layout=compact)
 
 ---
 
 ## Connect
 
 Email: iakcan1818@gmail.com
+
+---
+⭐ From [Irem Akcan](https://github.com/iakcan)
