@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B8BBE,100:306998&height=200&section=header&text=Irem%20Akcan&fontSize=40&fontColor=ffffff"/>
+
 # Irem Akcan
 
 Data and technology specialist with 4+ years of experience delivering IT and data-driven projects in Agile environments and leading cross-functional teams
