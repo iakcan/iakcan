@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Irem%20Akcan&fontSize=45&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=65&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Irem%20Akcan&fontColor=ffffff&fontSize=45&desc=Machine%20Learning%20%7C%20Data%20Science%20Projects&descAlignY=70"/>
 
 # Irem Akcan
 
