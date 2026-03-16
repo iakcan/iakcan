@@ -1,12 +1,10 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:667eea,100:764ba2&text=Irem%20Akcan&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
-</p>
+<h1 align="center">Irem Akcan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=520&lines=M.Sc.+Data+Science;Software+Project+Manager;Agile+Coach"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=800&color=7A7ADB&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science;Software+Project+Manager;Agile+Coach"/>
 </p>
 
-Data and technology specialist with 4+ years of experience delivering IT and data-driven projects in Agile environments and leading cross-functional teams
+Data and technology specialist with 4+ years of experience delivering IT and data-driven projects in Agile environments and leading cross-functional teams.
 
 ---
 
@@ -17,7 +15,7 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Data Science & Analytics
 
@@ -37,7 +35,11 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 
 ### Agile Methodologies
 
-Scrum • Kanban • Scrumban • Scaled Agile Framework • Disciplined Agile
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge)
+![Scrumban](https://img.shields.io/badge/Scrumban-6E40C9?style=for-the-badge)
+![SAFe](https://img.shields.io/badge/SAFe-D32F2F?style=for-the-badge)
+![Disciplined Agile](https://img.shields.io/badge/Disciplined_Agile-FF6F00?style=for-the-badge)
 
 ---
 
@@ -66,9 +68,10 @@ Visual analytics exploring relationships between inequality and maternal health 
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iakcan&show_icons=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iakcan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 ---
 
@@ -78,3 +81,4 @@ Email: iakcan1818@gmail.com
 
 ---
 ⭐ From [Irem Akcan](https://github.com/iakcan)
+
