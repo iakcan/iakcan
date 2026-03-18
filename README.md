@@ -54,8 +54,8 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 ### Crop Production Analysis in India
 [![Crop Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=crop_production_analysis&theme=tokyonight)](https://github.com/iakcan/crop_production_analysis)
 
-### Gender Inequality Data Analysis
-Visual analytics exploring relationships between inequality and maternal health outcomes.
+### Gender Inequality & Violence Analysis
+[![Gender Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=gender-inequality-analysis&theme=tokyonight)](https://github.com/iakcan/gender-inequality-analysis)
 
 ---
 
