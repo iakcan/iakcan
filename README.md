@@ -45,14 +45,16 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 
 ## Featured Projects
 
+### AGN Spectral Energy Distribution Modeling
+[![AGN Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=agn-spectral-energy-distribution-modeling&theme=tokyonight)](https://github.com/iakcan/agn-spectral-energy-distribution-modeling)
+
 ### Crop Production Modeling
 EDA, PCA and GLM modeling on a large agricultural dataset.
 
 ### Health Insurance Cross-Sell Analysis
 Statistical modeling and clustering on insurance customer data.
 
-### AGN Spectral Energy Distribution Modeling
-Bayesian MCMC-based astrophysical modeling of active galaxies.
+
 
 ### Gender Inequality Data Analysis
 Visual analytics exploring relationships between inequality and maternal health outcomes.
