@@ -52,7 +52,7 @@ Data and technology specialist with 4+ years of experience delivering IT and dat
 [![Insurance Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=insurance-cross-sell-analysis&theme=tokyonight)](https://github.com/iakcan/insurance-cross-sell-analysis)
 
 ### Crop Production Analysis in India
-[![Crop Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=crop-production-analysis&theme=tokyonight)](https://github.com/iakcan/crop-production-analysis)
+[![Crop Project](https://github-readme-stats.vercel.app/api/pin/?username=iakcan&repo=crop_production_analysis&theme=tokyonight)](https://github.com/iakcan/crop_production_analysis)
 
 ### Gender Inequality Data Analysis
 Visual analytics exploring relationships between inequality and maternal health outcomes.
