@@ -1,7 +1,7 @@
 <h1 align="center">Irem Akcan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=800&color=7A7ADB&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science;Software+Project+Manager;Agile+Coach"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=800&color=7A7ADB&center=true&vCenter=true&width=600&lines=Data+Scientist;Fraud+Analyst;Software+Project+Manager;Agile+Coach"/>
 </p>
 
 Data and technology specialist with 4+ years of experience delivering IT and data-driven projects in Agile environments and leading cross-functional teams.
